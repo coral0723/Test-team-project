@@ -1,1 +1,3 @@
-console.log("브랜치 만들어서 첫번째 커밋");
+for(let i=0; i< 10; i++) {
+  console.log('fix 4입니당');
+}
